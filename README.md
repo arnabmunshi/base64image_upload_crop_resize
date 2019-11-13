@@ -1,1 +1,1 @@
-# base64image_upload_crop_resize
+# Base64 Image Upload + Crop + Resize
